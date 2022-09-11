@@ -2,7 +2,7 @@
 - 👀 I’m interested in web projects, AI...
 - 🌱 I’m currently learning Java & Sprinboot
 - 💞️ I’m looking to collaborate on Java or Js projects (Angular...)
-- 📫 Reach me at : https://rb.gy/z8bzo2
+- 📫 Reach me at : https://manueldjiyehoue.netlify.app
 
 <!---
 KuessiAnsan/KuessiAnsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
