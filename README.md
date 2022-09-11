@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kuessi-Ansan DJIYEHOUE
 - 👀 I’m interested in web projects, AI...
 - 🌱 I’m currently learning Java & Sprinboot
-- 💞️ I’m looking to collaborate on Java or Js projects (Angular...)
+- 💞️ I’m looking to collaborate on Java or Js projects
 - 📫 Reach me at : https://manueldjiyehoue.netlify.app
 
 <!---
