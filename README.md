@@ -4,7 +4,7 @@ Hello! I'm Kuessi-Ansan Manuel DJIYEHOUE 🧑‍💻
 
 I'm a **Software Engineer**. I'm passionate about scalable infrastructures, cloud technologies, and machine learning. Interested in building innovative systems that bridge research and real-world applications. 
 
-Check out some of my projects below and feel free to reach out. See youu! 🚀
+Check out some of my projects below and feel free to reach out. See youu! 😉
 <!--
 ---
 
